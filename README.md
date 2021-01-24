@@ -1,4 +1,4 @@
-#Jubilee Modifications
+# Jubilee Modifications
 
 In the course of building my [Jubilee 3D Printer](https://jubilee3d.com/)/whatever machine, I've made a number of
 modifications to better support large, heavy tools, improve long-term dimensional stability, and increase fabricability.
